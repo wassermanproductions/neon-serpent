@@ -2,6 +2,12 @@
 
 A single-file synthwave Snake game you can play in any modern browser, fork, remix, and host as a static site.
 
+## Screenshots
+
+![Neon Serpent main menu](docs/screenshots/main-menu.png)
+
+![Neon Serpent gameplay](docs/screenshots/gameplay.png)
+
 ## Quick start
 
 ### Open directly
