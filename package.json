@@ -1,0 +1,18 @@
+{
+  "name": "neon-serpent",
+  "version": "1.0.0",
+  "description": "A remixable synthwave Snake game built with plain HTML, CSS, and JavaScript.",
+  "scripts": {
+    "serve": "python3 -m http.server 8080 --bind 127.0.0.1",
+    "test": "node scripts/verify-html.mjs"
+  },
+  "keywords": [
+    "snake",
+    "game",
+    "html5",
+    "canvas",
+    "synthwave",
+    "remixable"
+  ],
+  "license": "MIT"
+}
